@@ -1,7 +1,9 @@
-// Kyle Hubbard
-// In-Class Exercise: EventHandling and ObservableLists
-// CS 2450 - Programming Graphical User Interfaces
-// September 11, 2018
+/*
+Kyle Hubbard
+In-Class Exercise: EventHandling and ObservableLists
+CS 2450 - Programming Graphical User Interfaces
+September 11, 2018
+*/
 
 import javafx.application.*;
 import javafx.event.*;

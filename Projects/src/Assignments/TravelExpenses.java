@@ -1,7 +1,9 @@
-// Kyle Hubbard
-// Homework 2: Travel Expenses
-// CS 2450 - Programming Graphical User Interfaces
-// September 20, 2018
+/*
+Kyle Hubbard
+Homework 2: Travel Expenses
+CS 2450 - Programming Graphical User Interfaces
+September 20, 2018
+*/
 
 import javafx.application.*;
 import javafx.geometry.*;

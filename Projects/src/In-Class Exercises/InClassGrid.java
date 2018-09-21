@@ -1,7 +1,9 @@
-// Kyle Hubbard
-// In-Class Exercise
-// CS 2450 - Programming Graphical User Interfaces
-// September 6, 2018
+/*
+Kyle Hubbard
+In-Class Exercise
+CS 2450 - Programming Graphical User Interfaces
+September 6, 2018
+*/
 
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
