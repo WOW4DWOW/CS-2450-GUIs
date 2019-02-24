@@ -1,6 +1,6 @@
 /*
 Kyle Hubbard
-Homework 2: Dice Game
+Homework 3: Dice Game
 CS 2450 - Programming Graphical User Interfaces
 October 30, 2018
 */
